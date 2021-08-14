@@ -1,0 +1,45 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+.header{
+    display:inline-block;
+    background: purple;
+    height: 10vh;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    box-shadow: black;
+
+}
+.button{
+    height: 5vh;
+    width: 20%;
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+}
+
+.card{
+    background: burlywood;
+    box-shadow: crimson;
+    border-radius: 5px;
+    margin: 10px;
+    padding : 10px;
+    width: 550px;
+    display: inline-block;
+}
+
+.cardtitle{
+    text-align: center;
+    margin: 5px;
+}
+
+.carddes{
+    text-align: center;
+}
+
+.cardfooter{
+    color: crimson;
+}
